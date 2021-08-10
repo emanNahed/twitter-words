@@ -13,3 +13,7 @@ Once you do this, if you navigate to localhost:3000 in the browser, you should s
 ## Contributing
 Fork the project and submit a pull request with your changes. 
 
+## project steps:
+1. take your Beare token from your [twitter developer account](https://developer.twitter.com/en)
+2. store Api key locally:
+   * to know how to do that, you can watch this [video](https://www.youtube.com/watch?v=IolxqkL7cD8)
